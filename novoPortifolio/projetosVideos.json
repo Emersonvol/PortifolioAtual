@@ -1,7 +1,7 @@
 [
     {
         "titulo":"cafeteria",
-        "video": "/video/cafeteria.mkv",
+        "video": "novoPortifolio/video/cafeteria.mkv",
         "texto":"",
         "linkOnline":"https://emersonvol.github.io/projeto_cafeteria/",
         "linkGitHub":"https://github.com/Emersonvol/projeto_cafeteria/tree/main",
@@ -9,7 +9,7 @@
     }, 
     {
         "titulo":"Loja de eletronicos",
-        "video": "/video/loja_de_eletronicos.mp4",
+        "video": "novoPortifolio/video/loja_de_eletronicos.mp4",
         "texto":"",
         "linkOnline":"https://emersonvol.github.io/Site_de-_eletronicos/",
         "linkGitHub":"https://github.com/Emersonvol/Site_de-_eletronicos/tree/main/textEmepresa",
@@ -17,7 +17,7 @@
     }, 
     {
         "titulo":"Like a pro",
-        "video": "/video/setup.mkv",
+        "video": "novoPortifolio/video/setup.mkv",
         "texto":"",
         "linkOnline":"https://emersonvol.github.io/Estrategia-de-setup/",
         "linkGitHub":"https://github.com/Emersonvol/Estrategia-de-setup",
@@ -27,7 +27,7 @@
    
     {
         "titulo":"Site de decoração",
-        "video": "/video/site_de_decoracao.mp4",
+        "video": "novoPortifolio/video/site_de_decoracao.mp4",
         "texto":"",
         "linkOnline":"https://xn--rvdecoraes-v6a2o.online/",
         "linkGitHub":"https://github.com/Emersonvol/Site_rv_decoracao/tree/main/DecoracaoNunes",
@@ -37,7 +37,7 @@
     
     {
         "titulo":"Landing page",
-        "video": "/video/alura_plus.mp4",
+        "video": "novoPortifolio/video/alura_plus.mp4",
         "texto":"",
         "linkOnline":"https://emersonvol.github.io/AluraPlus/",
         "linkGitHub":"https://github.com/Emersonvol/AluraPlus",
