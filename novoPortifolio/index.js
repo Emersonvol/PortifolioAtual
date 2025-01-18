@@ -1,5 +1,6 @@
 const divs = document.querySelector('.projetos__Cards')
-fetch('projetosVideos.json')
+fetch('novoPortifolio
+/projetosVideos.json')
     .then(projetos => projetos.json())
     .then(pjt => {
         for (let info of pjt) {
