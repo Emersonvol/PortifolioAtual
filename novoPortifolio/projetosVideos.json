@@ -1,0 +1,47 @@
+[
+    {
+        "titulo":"cafeteria",
+        "video": "/video/cafeteria.mkv",
+        "texto":"",
+        "linkOnline":"https://emersonvol.github.io/projeto_cafeteria/",
+        "linkGitHub":"https://github.com/Emersonvol/projeto_cafeteria/tree/main",
+        "tecnologiasUsadas":"<img src='./imagens/logos/css-3.png'/> <img src='./imagens/logos/html-5.png'/> <img src='./imagens/logos/script-java.png'/>"
+    }, 
+    {
+        "titulo":"Loja de eletronicos",
+        "video": "/video/loja_de_eletronicos.mp4",
+        "texto":"",
+        "linkOnline":"https://emersonvol.github.io/Site_de-_eletronicos/",
+        "linkGitHub":"https://github.com/Emersonvol/Site_de-_eletronicos/tree/main/textEmepresa",
+        "tecnologiasUsadas":"<img src='./imagens/logos/css-3.png'/> <img src='./imagens/logos/html-5.png'/>"
+    }, 
+    {
+        "titulo":"Like a pro",
+        "video": "/video/setup.mkv",
+        "texto":"",
+        "linkOnline":"https://emersonvol.github.io/Estrategia-de-setup/",
+        "linkGitHub":"https://github.com/Emersonvol/Estrategia-de-setup",
+        "tecnologiasUsadas":"<img src='./imagens/logos/css-3.png'/> <img src='./imagens/logos/html-5.png'/> <img src='./imagens/logos/script-java.png'/>"
+
+    },
+   
+    {
+        "titulo":"Site de decoração",
+        "video": "/video/site_de_decoracao.mp4",
+        "texto":"",
+        "linkOnline":"https://xn--rvdecoraes-v6a2o.online/",
+        "linkGitHub":"https://github.com/Emersonvol/Site_rv_decoracao/tree/main/DecoracaoNunes",
+        "tecnologiasUsadas":"<img src='./imagens/logos/css-3.png'/> <img src='./imagens/logos/html-5.png'/> <img src='./imagens/logos/script-java.png'/> <img src='./imagens/logos/bootstrap.png'/>"
+
+    },
+    
+    {
+        "titulo":"Landing page",
+        "video": "/video/alura_plus.mp4",
+        "texto":"",
+        "linkOnline":"https://emersonvol.github.io/AluraPlus/",
+        "linkGitHub":"https://github.com/Emersonvol/AluraPlus",
+        "tecnologiasUsadas":"<img src='./imagens/logos/css-3.png'/> <img src='./imagens/logos/html-5.png'/>"
+
+    }
+]
