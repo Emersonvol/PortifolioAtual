@@ -1,0 +1,8 @@
+[
+  { "nome": "react js", "logo": "/imagens/logos/react-js.png" },
+  { "nome": "javascript", "logo": "/imagens/logos/script-java.png" },
+  { "nome": "css3", "logo":"/imagens/logos/css-3.png" },
+  { "nome": "html 5", "logo": "/imagens/logos/html-5.png" },
+  { "nome": "bootstrap 5", "logo": "/imagens/logos/bootstrap.png" },
+  { "nome": "sass", "logo": "/imagens/logos/sass.png" }
+]

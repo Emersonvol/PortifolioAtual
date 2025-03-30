@@ -1,0 +1,42 @@
+.rodape{
+    background-color: var(--bs-black);  
+    display: flex;
+    justify-content: center;
+    padding: 3em;
+}
+
+.rodape__contato ul{
+    display: flex;
+  
+   
+}
+.rodape__contato li{
+  margin: 1em;
+   font-size: 1.4em; 
+ list-style: none; 
+}
+
+.rodape__contato a{
+ text-decoration: none;
+ color: var(--bs-white);
+}
+
+.rodape__contato a:hover{
+  text-decoration: none;
+  color: var(--bs-red);
+  border-bottom: solid 1px var(--bs-red);
+ }
+ @media (min-width:320px )  {
+  .rodape{
+    margin-top: 15em;
+   
+}
+
+ 
+}
+ @media (min-width:700px )  {
+  .rodape{
+    margin-top: 15em;
+}
+ 
+}
