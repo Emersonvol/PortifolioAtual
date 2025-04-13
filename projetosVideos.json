@@ -53,5 +53,15 @@
         "linkGitHub":"https://github.com/Emersonvol/Ecomerce",
         "tecnologiasUsadas":"<img src='./imagens/logos/react-js.png'/> <img src='./imagens/logos/sass.png'/>"
 
+    },
+    
+    {
+        "titulo":"Tripo Games",
+        "video": "./video/tripo_games.mkv",
+        "texto":"",
+        "linkOnline":"tripo-games-psi.vercel.app",
+        "linkGitHub":"https://github.com/Emersonvol/tripo-Games",
+        "tecnologiasUsadas":"<img src='./imagens/logos/css-3.png'/> <img src='./imagens/logos/html-5.png'/> <img src='./imagens/logos/script-java.png'/>"
+
     }
 ]
