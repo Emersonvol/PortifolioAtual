@@ -7,6 +7,7 @@
     width: 100%;
     height: 100vh;
 }
+
 .projetos h2,
 .tecnologias h2 {
     font-size: 3em;
@@ -39,24 +40,28 @@ figcaption{
     text-transform: uppercase;
 }
 
-@media (min-width:320px ) and (max-width:425px ) {
-    
-    .tecnologias,.projetos {
-     margin: 25em;
+@media (min-width:320px ) and (max-width:425px ) {   
+    .tecnologias {
+        padding: 1em;
+     margin: 28em 0;
     }
-    
-    
+    .projetos {
+        margin: 35em 0;
+        padding: 1em;
+
+       }
     .tecnologias__figures{
      display: flex;
      flex-direction: column;
-    
-    }
-    
-  
-    
+    } 
 }
 
 @media (min-width:700px ) and (max-width:1024px )  {
+    .projetos {
+        margin: 18em 0;
+        padding: 1em;
+
+       }
     .tecnologias {
       margin: 18em 0;
         
