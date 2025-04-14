@@ -37,7 +37,7 @@ header{
 
 
 }
-@media (max-width:1024px )  {
+@media (width:1024px )  {
     .navbar-collapse {
         --bs-navbar-nav-link-padding-x: 8.6em;
     
@@ -48,9 +48,9 @@ header{
 }
 
 
-@media (max-width:1440px ) {
+@media (width:1440px ) {
     .navbar-collapse {
-        --bs-navbar-nav-link-padding-x: 15em;
+        --bs-navbar-nav-link-padding-x: 12.9em;
     
     }
 
@@ -60,7 +60,7 @@ header{
 
 @media (min-width:1900px )  {
     .navbar-collapse {
-        --bs-navbar-nav-link-padding-x: 20em;
+        --bs-navbar-nav-link-padding-x: 18em;
     
     }
 
