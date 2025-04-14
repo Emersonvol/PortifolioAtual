@@ -13,7 +13,6 @@
     margin: 0 1em;
     box-sizing: border-box;
 
-
 }
 
 .sobre__texto p {
@@ -27,10 +26,8 @@ strong {
 }
 
 .sobre__texto a {
-    width: 150px;
     height: 40px;
     text-align: center;
-    margin: .5em;
     display: flex;
     align-items: center;
     font-size: .7em;
@@ -41,66 +38,47 @@ strong {
 .sobre__texto a:hover {
     color: #030000;
     background-color: #6e2424;
-    width: 148px;
-    height: 35px;
-
 }
 
 .sobre__icones {
     margin: 0 .5em;
     width: 28px;
 }
-@media (max-width:375px)  {
 
-    .sobre__texto a {
-        margin: 1em 85em;
-
-    }
-
-
-}
 
 @media (min-width:320px) and (max-width:425px) {
     .sobre {
         flex-direction: column-reverse;
-        margin:  8em;
+        margin: 6em;
     
     }
 
     .sobre__texto {
         display: flex;
         flex-direction: column;
-        width: 80%;
-        
+        width:90% ;
+        font-size: 1.5em;
+    }
+    .sobre__texto p {
+        width: 100%;
+        word-spacing: .1em;
+        text-align: left;
+        margin:1em .2em;
+
     }
 
     .sobre__texto a {
-        margin: 1em 2em;
+        margin: 1em 1em;
+        font-size: 1.2em;
 
     }
 
-    .sobre__texto p {
-        width: 100%;
-        margin: 0 0em;
-        word-spacing: .2em;
-
-        text-align: center;
-
-    }
-    @media (max-width:375px)  {
-
-        .sobre__texto a {
-            margin: 1em 3em;
     
-        }
-    
-    
-    }
+   
 }
 
-@media (min-width:700px) {
+@media (min-width:768px) {
     .sobre {
-
         margin: 1em;
     }
 
@@ -108,8 +86,6 @@ strong {
         display: flex;
         flex-direction: column;
         margin: 0em;
-
-
 
 
     }
@@ -129,7 +105,8 @@ strong {
 
     .sobre__foto img {
         width: 250px;
-
+        height: 370px;
+       
     }
 
 }
