@@ -16,7 +16,7 @@ function cards(info) {
             <h5 class="card-title fs-3 m-3">${info.titulo}</h5>
             <p class="card-text">${info.texto}</p>
             <a href="${info.linkOnline}" class="btn btn-primary" target="_blank">Projeto Online</a>
-            <a href="#" class="btn btn-primary">GitHub</a>  
+            <a href="${info.linkGitHub}" class="btn btn-primary">GitHub</a>  
         </div>
         </div> 
          
@@ -42,3 +42,4 @@ function tecnologias(info) {
            
           `;
 }
+
